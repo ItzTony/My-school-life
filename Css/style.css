@@ -1,0 +1,45 @@
+body{
+  background-color: #FF7396;
+  text-align: center;
+      }
+  .pic{
+  border-top-style: solid;
+  border-right-style: groove;
+  border-bottom-style: inset;
+  border-left-style: ridge;
+  border-color: #54BAB9;
+  border-width: 10px;
+  border-radius: 50px;
+  height: 200px;
+  width: 150px;
+  /* margin-right: 50%;
+  margin-left: 20%; */
+}
+.text{
+  color: cyan;
+}
+.text2{
+  color: #F2DF3A;
+}
+.Head{
+  font-size: 50px;
+  color: #610C63;
+  /* border-style: solid;
+  border-color: #3AB0FF;
+  border-width: 20px;
+  border-radius: 100px; */
+    }
+.friends{
+   background-color: #BDF2D5;
+
+}
+
+.p1{
+    height: 350px;
+    width: 500px;
+}
+
+.video{
+  height: 550px;
+  width: 1000px;
+}
